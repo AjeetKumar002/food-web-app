@@ -1,0 +1,23 @@
+#navbar {
+    flex-direction: column;
+}
+
+#home {
+    height: 370px;
+}
+
+#home::before {
+    height: 480px;
+}
+
+#home p {
+    font-size: 0.8rem;
+}
+
+#services {
+    flex-direction: column;
+}
+
+#clients {
+    overflow: hidden;
+}
